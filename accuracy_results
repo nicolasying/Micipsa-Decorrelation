@@ -1,0 +1,17 @@
+2019-02-04 16:48:06,092 - INFO - loading projection weights from /home/sying/Documents/Decorrelation/sig_embedding.txt
+2019-02-04 16:48:07,810 - INFO - loaded (8157, 300) matrix from /home/sying/Documents/Decorrelation/sig_embedding.txt
+2019-02-04 16:48:07,848 - INFO - Pearson correlation coefficient against /home/sying/Documents/WordNetEmbeddings/data/input/English_testset/wordsim_rel.csv: 0.2091
+2019-02-04 16:48:07,849 - INFO - Spearman rank-order correlation coefficient against /home/sying/Documents/WordNetEmbeddings/data/input/English_testset/wordsim_rel.csv: 0.1678
+2019-02-04 16:48:07,849 - INFO - Pairs with unknown words ratio: 2.4%
+2019-02-04 16:48:07,905 - INFO - Pearson correlation coefficient against /home/sying/Documents/WordNetEmbeddings/data/input/English_testset/wordsim_sim.csv: 0.5462
+2019-02-04 16:48:07,905 - INFO - Spearman rank-order correlation coefficient against /home/sying/Documents/WordNetEmbeddings/data/input/English_testset/wordsim_sim.csv: 0.5436
+2019-02-04 16:48:07,905 - INFO - Pairs with unknown words ratio: 2.0%
+2019-02-04 16:48:07,962 - INFO - Pearson correlation coefficient against /home/sying/Documents/WordNetEmbeddings/data/input/English_testset/simlex999.csv: 0.4929
+2019-02-04 16:48:07,962 - INFO - Spearman rank-order correlation coefficient against /home/sying/Documents/WordNetEmbeddings/data/input/English_testset/simlex999.csv: 0.4994
+2019-02-04 16:48:07,962 - INFO - Pairs with unknown words ratio: 0.2%
+2019-02-04 16:48:08,007 - INFO - Pearson correlation coefficient against /home/sying/Documents/WordNetEmbeddings/data/input/English_testset/MTURK-771.csv: 0.5066
+2019-02-04 16:48:08,007 - INFO - Spearman rank-order correlation coefficient against /home/sying/Documents/WordNetEmbeddings/data/input/English_testset/MTURK-771.csv: 0.5152
+2019-02-04 16:48:08,007 - INFO - Pairs with unknown words ratio: 0.3%
+2019-02-04 16:48:08,014 - INFO - Pearson correlation coefficient against /home/sying/Documents/WordNetEmbeddings/data/input/English_testset/RG1965.csv: 0.7314
+2019-02-04 16:48:08,014 - INFO - Spearman rank-order correlation coefficient against /home/sying/Documents/WordNetEmbeddings/data/input/English_testset/RG1965.csv: 0.6880
+2019-02-04 16:48:08,015 - INFO - Pairs with unknown words ratio: 0.0%

@@ -1,0 +1,8 @@
+./English/sim_15k_800d.txt
+./English/sim_embedding.txt
+./English/glove_840B_300d.txt
+./French/embeddings_infinite.txt
+./French/wolf_15k_850d.txt
+./French/depglove_200d_eric.txt
+./.ipynb_*
+./vscode/*
