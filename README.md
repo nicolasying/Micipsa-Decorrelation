@@ -11,7 +11,28 @@ French space construction necessitates also lexicon alignment between `DepGloVe`
 
 *Association* is the difference between GLM mapped *Similarity* space onto `DepGloVe` and the original `DepGloVe` space, located in section `Decorrelation` in the notebooks.
 
-Word-pair semantic proximity ranking tasks in both axes are also computed in the notebooks. 
+Word-pair semantic proximity ranking tasks in both axes are also computed in the notebooks. The test benchmarks are the following:
+
+**English**
+
+[SimLex-999](https://www.cl.cam.ac.uk/~fh295/simlex.html)
+
+[RG1965](http://delivery.acm.org/10.1145/370000/365657/p627-rubenstein.pdf?ip=194.117.40.49&id=365657&acc=ACTIVE%20SERVICE&key=2E5699D25B4FE09E%2E454625C777251F56%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1527501385_f2095c911da3627e99b9a6c8a9769558)
+
+[WordSim-353-Similarity](http://alfonseca.org/eng/research/wordsim353.html)
+
+[WordSim-353-Relatedness](http://alfonseca.org/eng/research/wordsim353.html)
+
+[MEN](http://clic.cimec.unitn.it/~elia.bruni/MEN.html)
+
+[MTurk-771](http://www2.mta.ac.il/~gideon/datasets/)
+
+**French**
+
+French SimLex-999, WordSim353 benchmarks are based on [siabar/Multilingual_Wordpairs](https://github.com/siabar/Multilingual_Wordpairs).
+
+We applied lemmatisation and made corrections, the modified benchmarks are mirrored from [Similarity-Association-Benchmarks](https://github.com/nicolasying/Similarity-Association-Benchmarks).
+
 
 Also available in the French notebook are the visualization of semantic spaces and the semantic ranking task performance variation in function of PCA-dimensions. 
 
